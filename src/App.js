@@ -8,6 +8,8 @@ function App() {
        Hi
       </header>
       <p>Lorem  </p>
+      <p>loremmmmmmmmmmm</p>
+      <p>sukanyawedeb</p>
     </div>
   );
 }
